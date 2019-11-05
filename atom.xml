@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-31T12:38:26.703Z</updated>
+  <updated>2019-11-05T11:51:29.856Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>gitlab-runner</title>
+    <link href="http://yoursite.com/2019/11/05/gitlab-runner/"/>
+    <id>http://yoursite.com/2019/11/05/gitlab-runner/</id>
+    <published>2019-11-05T11:42:35.000Z</published>
+    <updated>2019-11-05T11:51:29.856Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="gitlab-runner配置"><a href="#gitlab-runner配置" class="headerlink" title="gitlab-runner配置"></a>gitlab-runner配置</h2><p>在工作过程中经常会碰到自动化部署的需求，下面是如何从0开始在本地模拟docker配置自动化部署。</p><h3 id="docker安装"><a href="#docker安装" class="headerlink" title="docker安装"></a>docker安装</h3><p>参照<a href="https://docs.docker.com/v17.09/engine/installation/" target="_blank" rel="noopener">官方文档</a>安装</p><p>docker</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;gitlab-runner配置&quot;&gt;&lt;a href=&quot;#gitlab-runner配置&quot; class=&quot;headerlink&quot; title=&quot;gitlab-runner配置&quot;&gt;&lt;/a&gt;gitlab-runner配置&lt;/h2&gt;&lt;p&gt;在工作过程中经常会碰到自动化部署的需
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>grid</title>
