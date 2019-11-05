@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-05T11:51:29.856Z</updated>
+  <updated>2019-11-05T12:22:20.494Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/11/05/gitlab-runner/"/>
     <id>http://yoursite.com/2019/11/05/gitlab-runner/</id>
     <published>2019-11-05T11:42:35.000Z</published>
-    <updated>2019-11-05T11:51:29.856Z</updated>
+    <updated>2019-11-05T12:22:20.494Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="gitlab-runner配置"><a href="#gitlab-runner配置" class="headerlink" title="gitlab-runner配置"></a>gitlab-runner配置</h2><p>在工作过程中经常会碰到自动化部署的需求，下面是如何从0开始在本地模拟docker配置自动化部署。</p><h3 id="docker安装"><a href="#docker安装" class="headerlink" title="docker安装"></a>docker安装</h3><p>参照<a href="https://docs.docker.com/v17.09/engine/installation/" target="_blank" rel="noopener">官方文档</a>安装</p><p>docker</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="gitlab-runner配置"><a href="#gitlab-runner配置" class="headerlink" title="gitlab-runner配置"></a>gitlab-runner配置</h2><p>在工作过程中经常会碰到自动化部署的需求，下面是如何从0开始在本地模拟docker配置自动化部署。</p><h3 id="docker安装"><a href="#docker安装" class="headerlink" title="docker安装"></a>docker安装</h3><p>参照<a href="https://docs.docker.com/v17.09/engine/installation/" target="_blank" rel="noopener">官方文档</a>安装</p><p>docker</p><p><img src="../assets/images/gitlab-01.png" alt="status"></p>]]></content>
     
     <summary type="html">
     
